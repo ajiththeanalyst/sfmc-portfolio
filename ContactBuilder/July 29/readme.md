@@ -15,3 +15,4 @@ Contact Builder is a Salesforce Marketing Cloud module used to create a unified 
 ->It is used together with Journey Builder to create personalized customer journeys.
 ->It improves marketing by using accurate and up-to-date customer data.
 ->In simple words: Contact Builder is the brain of Salesforce Marketing Cloud because it stores and connects all customer information needed for marketing campaigns.
+????????????????????
